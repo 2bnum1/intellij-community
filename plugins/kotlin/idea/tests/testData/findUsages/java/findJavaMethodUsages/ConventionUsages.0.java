@@ -5,3 +5,4 @@ public class Small {
         return true;
     }
 }
+// FIR_COMPARISON

@@ -10,3 +10,4 @@ public class JavaClassWI {
     public static class Other extends JavaClassWI {
     }
 }
+// FIR_COMPARISON

@@ -10,3 +10,4 @@ public class JavaClass {
         return 0;
     }
 }
+// FIR_COMPARISON
